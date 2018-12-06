@@ -74,32 +74,32 @@ li{
      .service-box1 {
        background-image: url(refuse.jpg);
         background-size: cover;
-        padding: 30px 0 80px 0;
+        padding: 30px 0 100px 0;
         margin: 40px 0 40px 0;
      }
      .service-box2{
        background-image: url(rubbish.jpg);
         background-size: cover;
-        padding: 30px 0 80px 0;
+        padding: 30px 0 100px 0;
         margin: 40px 0 40px 0;
      }
      .service-box3 {
        background-image: url(wasterecycling.jpg);
         background-size: cover;
-        padding: 30px 0 80px 0;
+        padding: 30px 0 100px 0;
         margin: 40px 0 40px 0;
       }
       .service-box4 {
         background-image: url(recycle.jpg);
          background-size: cover;
-         padding: 30px 0 80px 0;
+         padding: 30px 0 100px 0;
          margin: 40px 0 40px 0;
       }
       .service-box5 {
          background-image: url(bottles.jpg);
          background-size: cover;
          margin: 0;
-         padding: 30px 0 80px 0;
+         padding: 30px 0 100px 0;
          margin: 40px 0 40px 0;
        }
        .col-lg-9{
