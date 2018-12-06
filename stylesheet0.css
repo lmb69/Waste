@@ -51,7 +51,7 @@ li{
      .text-uppercase {
        background-image: url("bins2.jpg");
        background-size: cover;
-       height: 200px;
+       height: 100%;
        background-color: rgba(171,158,149,0.6);
 
      }
