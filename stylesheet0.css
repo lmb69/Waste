@@ -1,0 +1,107 @@
+ul {
+     padding: 20px;
+     background: black;
+   }
+li{
+     display: inline;
+     padding: 0px 10px 0px 10px;
+     position: center;
+   }
+   body {
+     background-color: #ab9e95;
+   }
+
+   @media (min-width: 992px) {
+     body {
+       padding-top: 0;
+       margin: 30px;
+     }
+     h1 {
+       font-family: 'Londrina Shadow', cursive;
+       text-align: center;
+       font-size: 80px;
+       color: white;
+       margin: 20px 0 0 0;
+     }
+     h2 {
+       text-align: center;
+       color: white;
+       margin: 0 0 70px 0;
+       font-size: 50px;
+       font-family: 'Londrina Shadow', cursive;
+       font-style: bold;
+     }
+     h3 {
+       text-align: center;
+       color: rgba(30,60,30,1);
+       margin: 0px 0 70px 0;
+       font-size: 40px;
+       font-family: 'Londrina Shadow', cursive;
+       background-color: rgba(171,158,149,0.5);
+     }
+     p{
+       text-align: center;
+       position: bottom;
+       color: black;
+       font-family: 'Londrina Shadow';
+       font-size: 30px;
+       background-color: rgba(171,158,149,0.4);
+     }
+
+     .text-uppercase {
+       background-image: url("bins2.jpg");
+       background-size: cover;
+       height: 200px;
+       background-color: rgba(171,158,149,0.6);
+
+     }
+     .text-faded{
+       background-color: red
+       size: 30px;
+     }
+     .section-heading{
+       background-size: cover;
+       background-image: url("bins2.jpg");
+       background-color: rgba(171,158,149,0.6);
+     }
+     .btn {
+       color: black;
+       font-size:30px;
+       font-family: 'Londrina Shadow', cursive;
+       float: bottom;
+       margin: 0 0 0 30px;
+     }
+     .service-box1 {
+       background-image: url(refuse.jpg);
+        background-size: cover;
+        padding: 30px 0 80px 0;
+        margin: 40px 0 40px 0;
+     }
+     .service-box2{
+       background-image: url(rubbish.jpg);
+        background-size: cover;
+        padding: 30px 0 80px 0;
+        margin: 40px 0 40px 0;
+     }
+     .service-box3 {
+       background-image: url(wasterecycling.jpg);
+        background-size: cover;
+        padding: 30px 0 80px 0;
+        margin: 40px 0 40px 0;
+      }
+      .service-box4 {
+        background-image: url(recycle.jpg);
+         background-size: cover;
+         padding: 30px 0 80px 0;
+         margin: 40px 0 40px 0;
+      }
+      .service-box5 {
+         background-image: url(bottles.jpg);
+         background-size: cover;
+         margin: 0;
+         padding: 30px 0 80px 0;
+         margin: 40px 0 40px 0;
+       }
+       .col-lg-9{
+         align-items: center;
+       }
