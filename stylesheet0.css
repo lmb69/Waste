@@ -66,10 +66,10 @@ li{
      }
      .btn {
        color: black;
-       font-size:30px;
+       font-size:50px;
        font-family: 'Londrina Shadow', cursive;
        float: bottom;
-       margin: 0 0 0 30px;
+       margin: 0 0 0 200px;
      }
      .service-box1 {
        background-image: url(refuse.jpg);
